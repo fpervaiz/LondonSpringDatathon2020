@@ -1,3 +1,4 @@
 *.docx
 nynta.csv
 Data/*
+.ipynb_checkpoints/
